@@ -24,7 +24,7 @@ By classifying these states, the app determines whether the driver is **Alert �
 - **Framework:** TensorFlow / Keras
 - **Image Size:** 224 × 224
 - **Classes:** 4 (Open, Closed, yawn, no_yawn)
-- **Training Epochs:** 10–15
+- **Training Epochs:** 50
 - **Optimizer:** Adam
 - **Loss Function:** Categorical Crossentropy
 - **Evaluation Metrics:** Accuracy, Precision, Recall, Confusion Matrix
